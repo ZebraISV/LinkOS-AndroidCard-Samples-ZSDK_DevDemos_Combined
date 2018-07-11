@@ -1,4 +1,3 @@
-
 ###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
 <br/>
 
