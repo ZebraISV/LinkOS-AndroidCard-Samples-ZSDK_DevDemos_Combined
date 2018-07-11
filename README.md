@@ -1,6 +1,6 @@
 
-
-###### **IMPORTANT:** BEFORE USING PLEASE READ CAREFULLY: ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br/>
 
 
 # LinkOS-AndroidCard-Samples
